@@ -9,3 +9,6 @@
 if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
+
+2 - download
+wget https://raw.githubusercontent.com/strubloid/config/master/.bash_aliases

@@ -1,0 +1,3 @@
+
+# Turning on hidden files on finder
+defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder
